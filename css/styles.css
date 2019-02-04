@@ -187,10 +187,11 @@ body {
   stroke-dashoffset: 23px;
 }
 
-/*.ham7.active .bottom {
+.ham7.active .bottom {
   stroke-dashoffset: -83px;
 }
-.ham8 .top {
+
+/*.ham8 .top {
   stroke-dasharray: 40 160;
 }
 .ham8 .middle {
