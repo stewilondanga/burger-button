@@ -34,10 +34,11 @@ body {
   user-select: none;
 }
 
-/*.hamRotate.active {
+.hamRotate.active {
   transform: rotate(45deg);
 }
-.hamRotate180.active {
+
+/*.hamRotate180.active {
   transform: rotate(180deg);
 }
 .line {
