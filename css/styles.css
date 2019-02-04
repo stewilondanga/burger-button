@@ -124,10 +124,11 @@ body {
   stroke-dashoffset: -68px;
 }
 
-/*.ham5 .top {
+.ham5 .top {
   stroke-dasharray: 40 82;
 }
-.ham5 .bottom {
+
+/*.ham5 .bottom {
   stroke-dasharray: 40 82;
 }
 .ham5.active .top {
