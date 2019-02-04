@@ -158,10 +158,11 @@ body {
   stroke-dashoffset: -132px;
 }
 
-/*.ham6.active .middle {
+.ham6.active .middle {
   stroke-dashoffset: -71px;
 }
-.ham6.active .bottom {
+
+/*.ham6.active .bottom {
   stroke-dashoffset: -132px;
 }
 .ham7 .top {
