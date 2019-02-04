@@ -82,10 +82,11 @@ body {
   stroke-dashoffset: -102px;
 }
 
-/*.ham3 .top {
+.ham3 .top {
   stroke-dasharray: 40 130;
 }
-.ham3 .middle {
+
+/*.ham3 .middle {
   stroke-dasharray: 40 140;
 }
 .ham3 .bottom {
