@@ -170,10 +170,11 @@ body {
   stroke-dasharray: 40 82;
 }
 
-/*.ham7 .middle {
+.ham7 .middle {
   stroke-dasharray: 40 111;
 }
-.ham7 .bottom {
+
+/*.ham7 .bottom {
   stroke-dasharray: 40 161;
 }
 .ham7.active .top {
