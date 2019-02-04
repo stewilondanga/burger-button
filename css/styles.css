@@ -58,10 +58,11 @@ body {
   stroke-dasharray: 40 180;
 }
 
-/*.ham1.active .top {
+.ham1.active .top {
   stroke-dashoffset: -98px;
 }
-.ham1.active .bottom {
+
+/*.ham1.active .bottom {
   stroke-dashoffset: -138px;
 }
 .ham2 .top {
