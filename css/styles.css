@@ -94,11 +94,12 @@ body {
   stroke-dasharray: 40 205;
 }
 
-/*.ham3.active .top {
+.ham3.active .top {
   stroke-dasharray: 75 130;
   stroke-dashoffset: -63px;
 }
-.ham3.active .middle {
+
+/*.ham3.active .middle {
   stroke-dashoffset: -102px;
 }
 .ham3.active .bottom {
