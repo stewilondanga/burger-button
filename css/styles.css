@@ -201,12 +201,13 @@ body {
   transition: transform 400ms;
 }
 
-/*.ham8 .bottom {
+.ham8 .bottom {
   stroke-dasharray: 40 85;
   transform-origin: 50%;
   transition: transform 400ms, stroke-dashoffset 400ms;
 }
-.ham8.active .top {
+
+/*.ham8.active .top {
   stroke-dashoffset: -64px;
 }
 .ham8.active .middle {
