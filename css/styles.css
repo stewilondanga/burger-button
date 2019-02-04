@@ -211,11 +211,12 @@ body {
   stroke-dashoffset: -64px;
 }
 
-/*.ham8.active .middle {
+.ham8.active .middle {
   //stroke-dashoffset: -20px;
   transform: rotate(90deg);
 }
-.ham8.active .bottom {
+
+/*.ham8.active .bottom {
   stroke-dashoffset: -64px;
 }
 
