@@ -86,10 +86,11 @@ body {
   stroke-dasharray: 40 130;
 }
 
-/*.ham3 .middle {
+.ham3 .middle {
   stroke-dasharray: 40 140;
 }
-.ham3 .bottom {
+
+/*.ham3 .bottom {
   stroke-dasharray: 40 205;
 }
 .ham3.active .top {
