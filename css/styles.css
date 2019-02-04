@@ -42,14 +42,15 @@ body {
   transform: rotate(180deg);
 }
 
-/*.line {
-  fill:none;
+.line {
+  fill: none;
   transition: stroke-dasharray 400ms, stroke-dashoffset 400ms;
-  stroke:#000;
-  stroke-width:5.5;
-  stroke-linecap:round;
+  stroke: #000;
+  stroke-width: 5.5;
+  stroke-linecap: round;
 }
-.ham1 .top {
+
+/*.ham1 .top {
   stroke-dasharray: 40 139;
 }
 .ham1 .bottom {
